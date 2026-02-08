@@ -6,7 +6,6 @@
 🎯 Interested in Product Analytics, Decision Analytics, and Data-driven strategy  
 
 📫 Reach me at <b>agrawalmayank.ma001@gmail.com</b>  
-📄 View my experiences on <b>Resume</b>
 
 ---
 
