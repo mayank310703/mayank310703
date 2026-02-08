@@ -44,32 +44,27 @@
 </p>
 
 ---
-
 <h3 align="left">🛠️ Analytics Tech Stack</h3>
 <p align="left">
 
-<!-- Programming & Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+<!-- Core -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
 
-<!-- Product & Analytics -->
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="40" height="40" alt="Google Analytics"/>
-<img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" width="40" height="40" alt="Amplitude"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mixpanel.svg" width="40" height="40" alt="Mixpanel"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/clevertap.svg" width="40" height="40" alt="CleverTap"/>
+<!-- Analytics / Product -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleanalytics.svg" width="40" alt="Google Analytics"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amplitude.svg" width="40" alt="Amplitude"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mixpanel.svg" width="40" alt="Mixpanel"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clevertap.svg" width="40" alt="CleverTap"/>
 
-<!-- BI & Visualization -->
-<img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.svg" width="90" height="40" alt="Apache Superset"/>
-<img src="https://raw.githubusercontent.com/metabase/metabase/master/docs/images/logo.svg" width="90" height="40" alt="Metabase"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau"/>
+<!-- BI Tools -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachesuperset.svg" width="40" alt="Apache Superset"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/metabase.svg" width="40" alt="Metabase"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" width="40" alt="Tableau"/>
 
-<!-- Data Processing & Automation -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40" alt="n8n"/>
-
-<!-- Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+<!-- Automation & Cloud -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="40" alt="n8n"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="40" alt="AWS"/>
 
 </p>
